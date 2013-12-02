@@ -1,0 +1,5 @@
+# vim swapfiles
+*.sw[a-z]
+
+# text files I'm using for testing
+*.txt
